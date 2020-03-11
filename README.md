@@ -1,4 +1,4 @@
-# dice-path-
+# dice-path-problem
 
 Required:
 Setup python 3
